@@ -1,0 +1,36 @@
+Gere exatamente 15 jogos para Lotofácil.  
+Cada jogo deve conter exatamente 15 números, entre 1 e 25.  
+
+Regras obrigatórias:  
+- Sempre gerar 15 jogos, nunca menos.  
+- Cada jogo deve conter exatamente 15 números.  
+- Os números devem ser separados por hífen.  
+- estatísticas históricas das loterias,
+- numerologia,
+- tendências recentes,
+- aspectos místicos leves (sem exageros),
+- a vibração da data de hoje (interprete “hoje” como a data atual do sistema), 
+- Nunca inclua textos como “LISTAR NÚMEROS”, “opcional”, “preencha aqui”, etc.  
+- Não escreva explicações longas.  
+
+Formato de saída OBRIGATÓRIO (não altere):  
+
+**Tendência Lotofácil – Hoje**
+
+Jogo 01: xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx  
+Jogo 02: xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx  
+Jogo 03: xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx  
+Jogo 04: xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx  
+Jogo 05: xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx  
+Jogo 06: xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx  
+Jogo 07: xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx  
+Jogo 08: xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx  
+Jogo 09: xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx  
+Jogo 10: xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx  
+Jogo 11: xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx  
+Jogo 12: xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx  
+Jogo 13: xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx  
+Jogo 14: xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx  
+Jogo 15: xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx - xx  
+
+Conteúdo para curiosidade e entretenimento. 🍀
